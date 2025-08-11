@@ -18,7 +18,7 @@ We evaluate **RAG-CFE** against a DiCE baseline on the **UCI Adult Income** data
 ├── evaluation.py        # Evaluate RAG vs baseline JSONs → prints aggregate summary
 ├── prompt.txt           # System instruction for the LLM (expected at /prompt.txt)
 ├── docs/                # Domain PDFs uploaded to Gemini
-
+```
 
 ## Installation
 
