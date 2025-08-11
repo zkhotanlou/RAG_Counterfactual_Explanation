@@ -44,12 +44,6 @@ Set your Gemini key:
 ```bash
 export GEMINI_API_KEY="YOUR_API_KEY"
 ```
-
-(Windows PowerShell)
-```powershell
-setx GEMINI_API_KEY "YOUR_API_KEY"
-```
-
 ---
 
 ## 1) Generate DiCE candidates
