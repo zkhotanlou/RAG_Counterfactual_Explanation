@@ -5,7 +5,7 @@ This repository implements **RAG-CFE**, a simple, reproducible pipeline that:
 2) (optionally) uploads **domain documents** to the LLM as grounding context, and  
 3) asks an **LLM (Gemini 2.5 Flash)** to select or generate a **single refined counterfactual**.  
 
-We evaluate **RAG-CFE** against a DiCE baseline on the **UCI Adult Income** dataset with standard recourse metrics (validity, proximity \( \ell_1/\ell_2 \), Gower, sparsity, feasibility, plausibility).
+We evaluate **RAG-CFE** against a DiCE baseline on the **UCI Adult Income** dataset with standard recourse metrics (validity, proximity, L1, L2, Gower, sparsity, feasibility, plausibility).
 
 ---
 
